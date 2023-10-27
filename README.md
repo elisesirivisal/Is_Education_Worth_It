@@ -3,7 +3,7 @@
 <br /><br />
 Elise Sirivisal | Data Collection/Analysis <br /><br />
 Christophe Vivensang | Data Collection/Curation/Visualization <br /><br />
-Kimberly Toro | <br /><br />
+Kimberly Toro | Data Collection/Analysis<br /><br />
 Zhongxuan (Steven) Si | Data Visualization/Designer<br /><br />
 <hr>
 
